@@ -1,9 +1,6 @@
 # lumenRpc
 lumen+rpc+yar
 
-# luyar
-yar with lumen
-
 ### 快速开始
 
 1. 部署项目，配置nginx到项目中的rpcserver文件夹中, index file: index.php
